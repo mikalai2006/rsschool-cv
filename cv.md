@@ -1,10 +1,27 @@
-### About me
-1. First Name, Last Name: **Mikalai Parakhnevich**;
-1. Contact Info: **email:** composer.opencart@gmail.com, **phone:** +37533 6291942;
-1. Summary: **Purposeful, communicative, I like to create applications**.
-1. Skills: **PHP**(basic), **HTML, CSS, JS (NODE.JS, VUE.JS), MYSQL, MongoDB**(basic), **GraphQL**(middle), Worked with **Bootstrap, Material Design, Jquery, Vuetifyjs and other**;
-1. Experience:
-	- (one of the latest freelance projects) [Shop](https://вентхаус.бел)
-1. Education:
-	- Mozyr State Pedagogical University (Faculty of Physics and Mathematics)
-1. English: A1
+# Mikalai Parakhnevich
+
+### Contact info:
+-  **email:** composer.opencart@gmail.com
+- **phone:** +37533 6291942
+
+### Summary: 
+ - Purposeful;
+ - communicative;
+ - I like to create applications.
+
+### Technical Skills
+- **Programming languages and technologies**: PHP(basic), JavaScript, HTML, CSS/SCSS (Responsive, Adaptive), MYSQL, GraphQL, 
+- **Programming practices**: Agile
+- **Frameworks and Libraries**: Node.js (Express, Hapi, Sequelize and other), Vue (Vuex, Vue route, Vue Cli (with ecosystem)), Jquery, Material Design, Ant-Design, Vuetify, Bootstrap and other
+- **Tools**: Git, Webpack, VS Code,  Webstorm, Atom, Notepad++
+- **Other skills**: video & audio editing, video encoding, youtube streaming.
+
+### Experience:
+
+- (one of the latest freelance projects) [Shop](https://вентхаус.бел)
+
+### Education:
+
+- Mozyr State Pedagogical University (Faculty of Physics and Mathematics)
+
+### English: A1
